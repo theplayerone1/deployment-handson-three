@@ -1,0 +1,1 @@
+ssh -i "deployment-L1.pem" ubuntu@ec2-18-232-154-214.compute-1.amazonaws.com
